@@ -122,8 +122,10 @@ datagen = ImageDataGenerator(
 
 #### Result:
 
-<img src='https://raw.githubusercontent.com/yujuezhao/LeNet-5-MNIST/master/images/3.PNG'>
-***  
+<img src='https://raw.githubusercontent.com/yujuezhao/LeNet-5-MNIST/master/images/3.PNG'>  
+  
+***   
+
 ### Appendix  
 plot data: [plot_data.ipynb](<https://github.com/yujuezhao/LeNet-5-MNIST/blob/master/plot_data.ipynb>)
 
